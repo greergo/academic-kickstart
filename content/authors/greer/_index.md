@@ -19,10 +19,13 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
+Greer’s research combines experimental and behavioural economics to reveal cost-effective climate change mitigation strategies at the microeconomic level.  Her current research focuses on the contexts of commercial fuel efficiency (especially in the aviation industry), residential energy and resource use, and virtual grid capacity. She is also a BITSS Catalyst promoting transparency and reproducibility in social science research, and holds a Ph.D. in Environmental Economics from the London School of Economics and Political Science.
+
 
 interests:
 - Climate Change
 - Behavioural Economics
+- Experimental Economics
 
 
 # Social/Academic Networking
@@ -32,16 +35,20 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:g.gosnell@lse.ac.uk
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mondpanther
+  link: https://twitter.com/Greergo
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=pWLTU64AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/greergo
+- icon: osf
+  icon_pack: fab
+  link: https://osf.io/hp62c/
+  #if above icon doesn't work, link to figure that out here: http://jpswalsh.github.io/academicons/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
